@@ -1,2 +1,3 @@
 # OpenGL3D_SpaceShuttle
- OpenGL 3D project in space
+## Presentational video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7nSuU8M7QDU/0.jpg)](https://www.youtube.com/watch?v=7nSuU8M7QDU)
