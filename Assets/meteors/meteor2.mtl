@@ -1,0 +1,14 @@
+# Blender MTL File: 'Asteroid_Small_6X.blend'
+# Material Count: 1
+
+newmtl Aster_Small_5_
+Ns 451.562513
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.200000 Aster_Small_5_NM.png
+map_Kd Aster_Small_5_Color.png
