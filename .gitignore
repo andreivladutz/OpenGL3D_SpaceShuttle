@@ -6,6 +6,7 @@
 glm/
 assimp/
 assimpBuild/
+stb_image.h
 
 # User-specific files
 *.rsuser
